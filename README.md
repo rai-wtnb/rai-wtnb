@@ -12,5 +12,5 @@
 - 少し煩雑ですが、[rai-wtnb/accomplist-api](https://github.com/rai-wtnb/accomplist-api)のTerraformディレクトリの方にインフラ構成を記載しております。
 
 ### ExTra
-- React Native
+- React Nativeで作成。
 - APIはgrpc, golang, mongoDBを使用
