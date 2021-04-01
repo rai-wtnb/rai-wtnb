@@ -8,7 +8,7 @@
 # Portfolio
 ~~[AccompList](https://accomplist.work)~~
 - db停止中
-- [リポジトリ](https://github.com/rai_wtnb/accomplist-api)
+- [リポジトリ](https://github.com/rai-wtnb/accomplist-api)
 
 ### ExTra
 - React Nativeで作成中。
