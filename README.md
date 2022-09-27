@@ -1,2 +1,2 @@
-# TechPost
-[Qiita](https://qiita.com/rai_wtnb)
+## TechPost
+- [Zenn](https://zenn.dev/rai_wtnb)
